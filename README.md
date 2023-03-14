@@ -4,3 +4,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ConstantineGle&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ConstantineGle&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ConstantineGle&theme=github)
