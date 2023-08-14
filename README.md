@@ -15,4 +15,5 @@
   - [Многопоточное и функциональное программирование.pdf](https://github.com/ConstantineGle/sertificate_files/blob/main/certificate%20(5).pdf)
   - [Web, Spring & Spring MVC.pdf](https://github.com/ConstantineGle/sertificate_files/blob/main/certificate%20(6).pdf)
   - [Spring Boot, deployment и инфраструктура.pdf](https://github.com/ConstantineGle/sertificate_files/blob/main/certificate%20(7).pdf)
+  - [Хранение данных и организация безопасности.pdf](https://github.com/ConstantineGle/sertificate_files/blob/main/certificate%20(8).pdf)
   - [Английский для программистов.pdf](https://github.com/ConstantineGle/sertificate_files/blob/main/certificate%20(1).pdf)
