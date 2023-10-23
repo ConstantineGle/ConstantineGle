@@ -1,13 +1,12 @@
 <h1 align="center">Привет, я Константин Глебов!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ConstantineGle&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ConstantineGle&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ConstantineGle&theme=github)
 
-## :scroll: Сертификаты Нетологии
 <h3 align="center">Курс "JAVA-разработчик" <a href="https://netology.ru/" target="_blank">(Нетология)</a></h3>
+## :scroll: Сертификаты Нетологии
 - Java разработчик с нуля
   - [Основы JAVA.pdf](https://github.com/ConstantineGle/sertificate_files/blob/main/certificate.pdf)
   - [GIT - система контроля версий.pdf](https://github.com/ConstantineGle/sertificate_files/blob/main/certificate%20(2).pdf)
