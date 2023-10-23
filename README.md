@@ -5,7 +5,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ConstantineGle&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ConstantineGle&theme=github)
 
-Прошел [Курс "JAVA-разработчик с нуля (нетология)](https://netology.ru/)
+Прошел [Курс "JAVA-разработчик с нуля (Нетология)](https://netology.ru/)
 ## :scroll: Сертификаты Нетологии
 - Java разработчик с нуля
   - [Основы JAVA.pdf](https://github.com/ConstantineGle/sertificate_files/blob/main/certificate.pdf)
