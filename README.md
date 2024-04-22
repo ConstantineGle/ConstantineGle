@@ -17,4 +17,4 @@
   - [Spring Boot, deployment и инфраструктура.pdf](https://github.com/ConstantineGle/sertificate_files/blob/main/certificate%20(7).pdf)
   - [Хранение данных и организация безопасности.pdf](https://github.com/ConstantineGle/sertificate_files/blob/main/certificate%20(8).pdf)
   - [Английский для программистов.pdf](https://github.com/ConstantineGle/sertificate_files/blob/main/certificate%20(1).pdf)
-  - [Java-разработчик с нуля](https://github.com/ConstantineGle/sertificate_files/blob/main/certificate_diploma.pdf)
+  - [Java-разработчик с нуля.pdf](https://github.com/ConstantineGle/sertificate_files/blob/main/certificate_diploma.pdf)
